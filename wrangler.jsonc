@@ -1,0 +1,12 @@
+{
+  "name": "email-auth-api",
+  "main": "index.js",
+  "compatibility_date": "2025-03-30",
+  "compatibility_flags": [],
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "user_auth_db"
+    }
+  ]
+}
