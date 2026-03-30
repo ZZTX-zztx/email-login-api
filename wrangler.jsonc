@@ -1,5 +1,5 @@
 {
-  "name": "email-auth-api",
+  "name": "email-login-api",
   "main": "index.js",
   "compatibility_date": "2025-03-30",
   "compatibility_flags": [],
